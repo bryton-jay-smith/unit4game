@@ -1,0 +1,30 @@
+/* Style Sheet */
+body {
+	background-image: url("../images/greenFelt.png");
+	background-repeat: repeat;
+}
+.goal, .goalText {
+	color: white;
+	font-size: 300%;
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+
+.goal {
+	text-align: right;
+}
+
+.goalText {
+	text-align: left;
+}
+.playingCard {
+	height: 100%;
+	margin-bottom: 40px;
+}
+.howTo {
+	color: white;
+	font-size: 200%;
+	margin-top: 0;
+	padding-top: 0;
+	text-align: center;
+}
